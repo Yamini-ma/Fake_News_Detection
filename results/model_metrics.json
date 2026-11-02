@@ -1,0 +1,16 @@
+[
+    {
+        "Model": "Logistic Regression",
+        "Accuracy": 0.9899,
+        "Precision": 0.9878,
+        "Recall": 0.9939,
+        "F1 Score": 0.9908
+    },
+    {
+        "Model": "Passive Aggressive",
+        "Accuracy": 0.996,
+        "Precision": 0.9953,
+        "Recall": 0.9974,
+        "F1 Score": 0.9963
+    }
+]
